@@ -1,2 +1,1 @@
-# upwork-proposal
-proposal
+# proposal
